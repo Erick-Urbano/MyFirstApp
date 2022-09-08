@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="nom1">Nombre</string>
+    <string name="btto1">Enviar</string>
+    <string name="btto2">Regresar</string>
+    <string name="nom2">Nombre</string>
+</resources>
